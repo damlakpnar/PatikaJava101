@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HipotenusBulanProgram/HipotenusBulanProgram.iml" filepath="$PROJECT_DIR$/HipotenusBulanProgram/HipotenusBulanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KdvHesaplayanProgram/KdvHesaplayanProgram.iml" filepath="$PROJECT_DIR$/KdvHesaplayanProgram/KdvHesaplayanProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PatikaJava101.iml" filepath="$PROJECT_DIR$/PatikaJava101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UcgenAlanHesabi/UcgenAlanHesabi.iml" filepath="$PROJECT_DIR$/UcgenAlanHesabi/UcgenAlanHesabi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notOrtalama/notOrtalama.iml" filepath="$PROJECT_DIR$/notOrtalama/notOrtalama.iml" />
+    </modules>
+  </component>
+</project>
