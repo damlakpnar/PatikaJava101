@@ -8,7 +8,13 @@
       <module fileurl="file://$PROJECT_DIR$/BasamakToplami/BasamakToplami.iml" filepath="$PROJECT_DIR$/BasamakToplami/BasamakToplami.iml" />
       <module fileurl="file://$PROJECT_DIR$/BurcBulanProgram/BurcBulanProgram.iml" filepath="$PROJECT_DIR$/BurcBulanProgram/BurcBulanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/CinZodyagiHesaplama/CinZodyagiHesaplama.iml" filepath="$PROJECT_DIR$/CinZodyagiHesaplama/CinZodyagiHesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CokBoyutluDizilerdeHarfYazma/CokBoyutluDizilerdeHarfYazma.iml" filepath="$PROJECT_DIR$/CokBoyutluDizilerdeHarfYazma/CokBoyutluDizilerdeHarfYazma.iml" />
       <module fileurl="file://$PROJECT_DIR$/DaireAlanveCevreHesabi/DaireAlanveCevreHesabi.iml" filepath="$PROJECT_DIR$/DaireAlanveCevreHesabi/DaireAlanveCevreHesabi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DizideElemanOrtalamasi/DizideElemanOrtalamasi.iml" filepath="$PROJECT_DIR$/DizideElemanOrtalamasi/DizideElemanOrtalamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DizideTekrarEdenSayilariBulma/DizideTekrarEdenSayilariBulma.iml" filepath="$PROJECT_DIR$/DizideTekrarEdenSayilariBulma/DizideTekrarEdenSayilariBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DizidekiElemanlariSiralama/DizidekiElemanlariSiralama.iml" filepath="$PROJECT_DIR$/DizidekiElemanlariSiralama/DizidekiElemanlariSiralama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DizidekiElemanlarinFrekansi/DizidekiElemanlarinFrekansi.iml" filepath="$PROJECT_DIR$/DizidekiElemanlarinFrekansi/DizidekiElemanlarinFrekansi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DizilerdeMaxMinBulma/DizilerdeMaxMinBulma.iml" filepath="$PROJECT_DIR$/DizilerdeMaxMinBulma/DizilerdeMaxMinBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/EbobEkok/EbobEkok.iml" filepath="$PROJECT_DIR$/EbobEkok/EbobEkok.iml" />
       <module fileurl="file://$PROJECT_DIR$/FaktoryelKombinasyonHesaplama/FaktoryelKombinasyonHesaplama.iml" filepath="$PROJECT_DIR$/FaktoryelKombinasyonHesaplama/FaktoryelKombinasyonHesaplama.iml" />
       <module fileurl="file://$PROJECT_DIR$/FibonacciSerisi/FibonacciSerisi.iml" filepath="$PROJECT_DIR$/FibonacciSerisi/FibonacciSerisi.iml" />
@@ -21,13 +27,20 @@
       <module fileurl="file://$PROJECT_DIR$/KdvHesaplayanProgram/KdvHesaplayanProgram.iml" filepath="$PROJECT_DIR$/KdvHesaplayanProgram/KdvHesaplayanProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" filepath="$PROJECT_DIR$/KullaniciGirisi/KullaniciGirisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/KuvvetYazma/KuvvetYazma.iml" filepath="$PROJECT_DIR$/KuvvetYazma/KuvvetYazma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaasHesaplayicisi/MaasHesaplayicisi.iml" filepath="$PROJECT_DIR$/MaasHesaplayicisi/MaasHesaplayicisi.iml" />
       <module fileurl="file://$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" filepath="$PROJECT_DIR$/ManavKasaProgrami/ManavKasaProgrami.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MatrisinTranspozesi/MatrisinTranspozesi.iml" filepath="$PROJECT_DIR$/MatrisinTranspozesi/MatrisinTranspozesi.iml" />
       <module fileurl="file://$PROJECT_DIR$/MaxMinDegerleriniBulma/MaxMinDegerleriniBulma.iml" filepath="$PROJECT_DIR$/MaxMinDegerleriniBulma/MaxMinDegerleriniBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MayinTarlasiOyunu/MayinTarlasiOyunu.iml" filepath="$PROJECT_DIR$/MayinTarlasiOyunu/MayinTarlasiOyunu.iml" />
       <module fileurl="file://$PROJECT_DIR$/MukemmelSayiBulma/MukemmelSayiBulma.iml" filepath="$PROJECT_DIR$/MukemmelSayiBulma/MukemmelSayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
       <module fileurl="file://$PROJECT_DIR$/PalindromSayilar/PalindromSayilar.iml" filepath="$PROJECT_DIR$/PalindromSayilar/PalindromSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromikKelimeBulma/PalindromikKelimeBulma.iml" filepath="$PROJECT_DIR$/PalindromikKelimeBulma/PalindromikKelimeBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatikaJava101.iml" filepath="$PROJECT_DIR$/PatikaJava101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveAsalBulma/RecursiveAsalBulma.iml" filepath="$PROJECT_DIR$/RecursiveAsalBulma/RecursiveAsalBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveUsAlma/RecursiveUsAlma.iml" filepath="$PROJECT_DIR$/RecursiveUsAlma/RecursiveUsAlma.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecuversiveFibonacciBulma/RecuversiveFibonacciBulma.iml" filepath="$PROJECT_DIR$/RecuversiveFibonacciBulma/RecuversiveFibonacciBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SayiTahminOyunu/SayiTahminOyunu.iml" filepath="$PROJECT_DIR$/SayiTahminOyunu/SayiTahminOyunu.iml" />
       <module fileurl="file://$PROJECT_DIR$/SayilarArasiAsalBulma/SayilarArasiAsalBulma.iml" filepath="$PROJECT_DIR$/SayilarArasiAsalBulma/SayilarArasiAsalBulma.iml" />
       <module fileurl="file://$PROJECT_DIR$/SayilariSiralama/SayilariSiralama.iml" filepath="$PROJECT_DIR$/SayilariSiralama/SayilariSiralama.iml" />
       <module fileurl="file://$PROJECT_DIR$/SinifiGecmeDurumu/SinifiGecmeDurumu.iml" filepath="$PROJECT_DIR$/SinifiGecmeDurumu/SinifiGecmeDurumu.iml" />
