@@ -27,7 +27,7 @@ public class Main {
         }
 
         System.out.println("En büyük sayı: " + max);
-        System.out.println("En küçün sayı: " + min);
+        System.out.println("En küçük sayı: " + min);
 
     }
 }
